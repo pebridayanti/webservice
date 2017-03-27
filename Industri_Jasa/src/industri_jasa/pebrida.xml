@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pengiriman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="peb.xsd">
+<barang>
+<kode motor="001">M1112</kode>
+<satuan>kg</satuan>
+<transaksi>tunai</transaksi>
+<asal>
+<pt>JNE</pt>
+<kodewilayah>50</kodewilayah>
+</asal>
+<tujuan>
+<pt>POS</pt>
+<kodewilayah>549</kodewilayah>
+</tujuan>
+<pengiriman>barang</pengiriman>
+<nama>Pebri</nama>
+</barang>
+<barang>
+<kode>S123</kode>
+<satuan>kg</satuan>
+<transaksi>tunai</transaksi>
+<asal>
+<pt>KERETA</pt>
+<kodewilayah>78</kodewilayah>
+</asal>
+<tujuan>
+<pt>PUTRA JAYA</pt>
+<kodewilayah>120</kodewilayah>
+</tujuan>
+</barang>
+<barang>
+<kode>S123</kode>
+<satuan>kg</satuan>
+<transaksi>tunai</transaksi>
+<asal>
+<pt>JNE</pt>
+<kodewilayah>50</kodewilayah>
+</asal>
+<tujuan>
+<pt>POS</pt>
+<kodewilayah>549</kodewilayah>
+</tujuan>
+</barang>
+<barang>
+<kode>S123</kode>
+<satuan>kg</satuan>
+<transaksi>tunai</transaksi>
+<asal>
+<pt>KERETA</pt>
+<kodewilayah>78</kodewilayah>
+</asal>
+<tujuan>
+<pt>PUTRA JAYA</pt>
+<kodewilayah>120</kodewilayah>
+</tujuan>
+</barang>
+<barang>
+<kode>S123</kode>
+<satuan>kg</satuan>
+<transaksi>tunai</transaksi>
+<asal>
+<pt>JNE</pt>
+<kodewilayah>50</kodewilayah>
+</asal>
+<tujuan>
+<timbangan>1 kg</timbangan>
+<pt>POS</pt>
+<kodewilayah>549</kodewilayah>
+</tujuan>
+</barang>
+</pengiriman>
